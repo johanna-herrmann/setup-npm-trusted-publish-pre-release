@@ -1,10 +1,10 @@
 {
-  "name": "setup-npm-trusted-publish",
+  "name": "setup-npm-trusted-publish-pre-release",
   "version": "0.1.0",
   "description": "Setup npm package for trusted publishing with OIDC, but using 0.0.0-dummy as release version",
   "type": "module",
   "bin": {
-    "setup-npm-trusted-publish": "./bin/cli.js"
+    "setup-npm-trusted-publish-pre-release": "./bin/cli.js"
   },
   "scripts": {
     "test": "node --experimental-strip-types ./test/test.ts"
