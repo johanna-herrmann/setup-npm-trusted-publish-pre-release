@@ -1,7 +1,6 @@
 # setup-npm-trusted-publish-pre-release
 
 [![NPM](https://nodei.co/npm/setup-npm-trusted-publish-pre-release.svg?style=shields&data=n,v,u,d,s&color=blue)](https://nodei.co/npm/setup-npm-trusted-publish-pre-release/) \
-[![QA-Main](https://github.com/johanna-herrmann/setup-npm-trusted-publish-pre-release/actions/workflows/qa_main.yml/badge.svg?branch=main)](https://github.com/johanna-herrmann/setup-npm-trusted-publish-pre-release/actions/workflows/qa_main.yml)
 
 This is a fork of [setup-npm-trusted-publish](https://www.npmjs.com/package/setup-npm-trusted-publish)
 from azu <azuciao@gmail.com>,

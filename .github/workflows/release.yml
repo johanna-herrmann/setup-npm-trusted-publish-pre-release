@@ -32,15 +32,6 @@ jobs:
         # Trusted publishing requires npm CLI version 11.5.1 or later and Node version 22.14.0 or higher
         run: npm install -g npm@11.5.1
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: QA
-        run: npm run qa
-
-      - name: Build project
-        run: npm run build
-
       - name: determine next version
         id: get_next_version
         uses: thenativeweb/get-next-version@2.7.1
