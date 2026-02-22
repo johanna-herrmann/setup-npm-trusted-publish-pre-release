@@ -1,6 +1,6 @@
 # setup-npm-trusted-publish-pre-release
 
-[![NPM](https://nodei.co/npm/setup-npm-trusted-publish-pre-release.svg?style=shields&data=n,v,u,d,s&color=blue)](https://nodei.co/npm/setup-npm-trusted-publish-pre-release/) \
+[![NPM](https://nodei.co/npm/setup-npm-trusted-publish-pre-release.svg?style=shields&data=n,v,u,d,s&color=blue)](https://nodei.co/npm/setup-npm-trusted-publish-pre-release/)
 
 This is a fork of [setup-npm-trusted-publish](https://www.npmjs.com/package/setup-npm-trusted-publish)
 from azu <azuciao@gmail.com>,
